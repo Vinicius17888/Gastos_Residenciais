@@ -1,9 +1,6 @@
 # Gastos_Residenciais
-Projeto de gastos residencias(CRUD)
-
-
 ## Descrição
-Sistema para controle de gastos residenciais, com cadastro de pessoas, categorias e transações, além de relatório de totais por pessoa.
+Sistema para controle de gastos residenciais, com cadastro de pessoas, categorias e transações, além de relatório de totais por pessoa.(CRUD)
 
 ## Tecnologias utilizadas
 - Back-end: C# / ASP.NET Core Web API (Visual Studio 2026)

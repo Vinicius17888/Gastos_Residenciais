@@ -39,7 +39,7 @@ Sistema para controle de gastos residenciais, com cadastro de pessoas, categoria
 ### Back-end
 1. Abrir a solução no Visual Studio
 2. Configurar a string de conexão com o SQL Server no `appsettings.json`(Server= Servidor do seu computador; Database=Nome do Banco de dados) 
-3. Executar o projeto
+3. Executar o projeto (F5)
 
 ### Front-end (CMD)
 1. Acessar a pasta `frontend`
